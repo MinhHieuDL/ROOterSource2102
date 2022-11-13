@@ -8,7 +8,7 @@
 	--main-color: #09c;
 	--header-bg: #09c;
 	--header-color: #fff;
-	--bar-bg: #5e72e4;
+	--bar-bg: #cc0a2f;
 	--menu-bg-color: #fff;
 	--menu-color: #5f6368;
 	--menu-color-hover: #202124;
@@ -35,7 +35,7 @@
 	--danger: #f5365c;
 	--light: #adb5bd;
 	--dark: #212529;
-	--default: #172b4d;
+	--default: #87031d;
 	--white: #fff;
 	--neutral: #fff;
 	--darker: #000;
@@ -548,14 +548,14 @@ hr {
 	font-size: 1.2vw;
 	font-weight: 700;
 	font-family: TypoGraphica;
-	margin-left: 4.3vw;
+	margin-left: 3vw;
 }
 
 .login-page .login-container .login-form .brandlg .brand-textlg {
 	font-size: 1.2vw;
 	font-weight: 700;
 	font-family: Roboto-Regular-webfont;
-	margin-left: 3vw;
+	margin-left: 4.4vw;
 }
 
 .login-page .login-container .login-form .form-login {
